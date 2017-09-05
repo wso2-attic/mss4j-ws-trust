@@ -1,0 +1,1 @@
+# mss4j-ws-trust
